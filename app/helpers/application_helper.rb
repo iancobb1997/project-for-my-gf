@@ -9,14 +9,6 @@ module ApplicationHelper
       {
         url: pictures_path,
         title: 'Pictures'
-      },
-      {
-        url: love_path,
-        title: 'Love'
-      },
-      {
-        url: us_path,
-        title: 'Us'
       }
     ]
   end
